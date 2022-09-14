@@ -1,0 +1,31 @@
+articles.content
+"Python Tutorial: Zip Files – Creating and Extracting Zip Archives
+November 19, 2019 by Corey Schafer Leave a Comment 
+In this video, we will be learning how to create and extract zip archives. We will start by using the zipfile module, and then we will see how to do this using the shutil module. We will learn how to do this with single files and directories, as well as learning how to use gzip as well. Let’s get started…
+
+Filed Under: Development, Python Tagged With: gzip, shutil, zip, zipfile"
+"Python Data Science Tutorial: Analyzing the 2019 Stack Overflow Developer Survey
+October 17, 2019 by Corey Schafer Leave a Comment 
+In this Python Programming video, we will be learning how to download and analyze real-world data from the 2019 Stack Overflow Developer Survey. This is terrific practice for anyone getting into the data science field. We will learn different ways to analyze this data and also some best practices. Let’s get started…
+
+
+
+Filed Under: Development, Python Tagged With: data analysis, Data Science, stack overflow"
+"Python Multiprocessing Tutorial: Run Code in Parallel Using the Multiprocessing Module
+September 21, 2019 by Corey Schafer Leave a Comment 
+In this Python Programming video, we will be learning how to run code in parallel using the multiprocessing module. We will also look at how to process multiple high-resolution images at the same time using a ProcessPoolExecutor from the concurrent.futures module. Let’s get started…
+
+
+
+Filed Under: Development, Python Tagged With: asynchronous, concurrent.futures, multiprocessing, parallel, threading"
+"Python Threading Tutorial: Run Code Concurrently Using the Threading Module
+September 12, 2019 by Corey Schafer Leave a Comment 
+In this Python Programming video, we will be learning how to run threads concurrently using the threading module. We will also look at how to download multiple high-resolution images online using a ThreadPoolExecutor from the concurrent.futures module. Let’s get started…
+
+
+
+Filed Under: Development, Python Tagged With: asynchronous, concurrency, multiprocessing, threading"
+"Update (2019-09-03)
+September 3, 2019 by Corey Schafer Leave a Comment 
+Hey everyone. I wanted to give you an update on my videos. I will be releasing videos on threading and multiprocessing within the next week. Thanks so much for your patience. I currently have a temporary recording studio setup at my Airbnb that will allow me to record and edit the threading/multiprocessing videos. I am going to be moving into my new house in 10 days and once I have my recording studio setup then you can expect much faster video releases. I really appreciate how patient everyone has been while I go through this move, especially those of you who are contributing monthly through YouTube 
+Filed Under: General "
